@@ -1,0 +1,15 @@
+.categories{
+    color: #00695c;
+    font-family: 'IM Fell French Canon SC', serif;
+    font-weight: 700;
+    font-size: larger;
+}
+
+.explore{
+    color: #4F4846;
+    font-family: "Rozha One";
+}
+
+.menubutton{
+    flex: 50%;
+}
